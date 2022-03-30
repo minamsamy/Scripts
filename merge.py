@@ -6,6 +6,8 @@ import argparse
 import xlsxwriter
 from datetime import datetime
 
+version=0.1
+
 # Argumment Setup. User to insert data file location with --location flag
 
 print ("Merge Process Innitiated...")
