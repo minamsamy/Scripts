@@ -151,5 +151,5 @@ merge_flag=merge(path)
 if merge_flag:
     print("Merge Process Incomplete")
 else:
-    print("Merge Process Complete")
-a=input('press any key to exit')
+    print("Merge Process Complete\n")
+a=input('Press any key to exit')
